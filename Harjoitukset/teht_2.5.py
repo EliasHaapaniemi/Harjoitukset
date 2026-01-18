@@ -1,6 +1,6 @@
-leiviskat = int(input("Anna leiviskät."))
-naulat = int(input("Anna naulat."))
-luodit = float(input("Anna luodit."))
+leiviskat = int(input("Anna leiviskät: "))
+naulat = int(input("Anna naulat: "))
+luodit = float(input("Anna luodit: "))
 
 luodit_yhteensa = (leiviskat * 20 * 32) + (naulat * 32) + luodit
 
